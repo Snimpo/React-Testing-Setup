@@ -1,0 +1,23 @@
+
+.container{
+  background-color: rgb(212, 210, 210);
+  max-width: 90%;
+  margin: 10%;
+  padding: 2rem;
+  text-align: center;
+  box-shadow:
+  inset 0 -3em 3em rgb(0 200 0 / 30%),
+  0 0 0 2px white,
+  0.3em 0.3em 1em rgb(200 0 0 / 60%);
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #0577e2; /* Set your desired background color */
+  color: white; /* Set your desired text color */
+  text-align: left;
+  padding: 10px; /* Add some padding for spacing */
+}
