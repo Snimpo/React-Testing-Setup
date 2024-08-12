@@ -39,7 +39,7 @@ function Welcome() {
         tristique nibh quis, aliquet neque.
       </p>
 
-      <footer className="footer">Created by {name} &copy; {year}</footer>
+      <footer className="footer" contentEditable= "true">Created by {name} &copy; {year}</footer>
       
     </div>
   );
